@@ -1,3 +1,6 @@
 this is feature 3
 
 added more features in 3
+
+some featuren are added in fetaure 3 on dev
+
